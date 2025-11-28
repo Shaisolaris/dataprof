@@ -12,6 +12,7 @@ Prerequisites:
 - For PostgreSQL/MySQL, ensure database is running and accessible
 """
 
+import utils.session
 import asyncio
 import dataprof
 

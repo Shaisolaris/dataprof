@@ -10,10 +10,6 @@ dist/
 *.egg
 
 # IDE files - personal settings only
-.vscode/settings.json
-.vscode/launch.json
-.vscode/tasks.json
-.vscode/extensions.json
 .idea/
 *.swp
 *.swo
@@ -73,3 +69,4 @@ venv/
 env/
 .venv/
 .env/
+config.bat
