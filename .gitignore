@@ -13,10 +13,6 @@ dist/
 *.dwp
 
 # IDE files - personal settings only
-.vscode/settings.json
-.vscode/launch.json
-.vscode/tasks.json
-.vscode/extensions.json
 .idea/
 *.swp
 *.swo
@@ -82,3 +78,4 @@ env/
 #claude settings (local settings ignored; versioned skills are not)
 .claude/*
 !.claude/skills/
+config.bat
